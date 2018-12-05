@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopyrightManager" default="" />
+  <component name="IdProvider" IDEtalkID="5F1C23F44777D1EA5DBF8986551E57E7" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
